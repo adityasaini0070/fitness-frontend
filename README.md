@@ -3,7 +3,6 @@
 The modern, responsive web application for the **Fitness Tracker** platform. This frontend provides an intuitive interface for users to log activities, view personalized recommendations, and manage their fitness journey.
 
 ## 🌐 Live Links
-- **🚀 Deployed Frontend**: [https://fitness-tracker-frontend.vercel.app](https://fitness-tracker-frontend.vercel.app) *(Update with your actual link)*
 - **⚙️ Backend API**: [https://fitness-zpc6.onrender.com](https://fitness-zpc6.onrender.com)
 - **📖 API Documentation**: [Swagger UI](https://fitness-zpc6.onrender.com/swagger-ui/index.html)
 
